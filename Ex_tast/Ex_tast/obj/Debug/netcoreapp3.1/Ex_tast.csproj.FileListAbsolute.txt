@@ -1,0 +1,14 @@
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\bin\Debug\netcoreapp3.1\Ex_tast.exe
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\bin\Debug\netcoreapp3.1\Ex_tast.deps.json
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\bin\Debug\netcoreapp3.1\Ex_tast.runtimeconfig.json
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\bin\Debug\netcoreapp3.1\Ex_tast.runtimeconfig.dev.json
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\bin\Debug\netcoreapp3.1\Ex_tast.dll
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\bin\Debug\netcoreapp3.1\Ex_tast.pdb
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\obj\Debug\netcoreapp3.1\Ex_tast.csproj.AssemblyReference.cache
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\obj\Debug\netcoreapp3.1\Ex_tast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\obj\Debug\netcoreapp3.1\Ex_tast.AssemblyInfoInputs.cache
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\obj\Debug\netcoreapp3.1\Ex_tast.AssemblyInfo.cs
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\obj\Debug\netcoreapp3.1\Ex_tast.csproj.CoreCompileInputs.cache
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\obj\Debug\netcoreapp3.1\Ex_tast.dll
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\obj\Debug\netcoreapp3.1\Ex_tast.pdb
+C:\Users\tu7tw2d21\source\repos\Ex_tast\Ex_tast\obj\Debug\netcoreapp3.1\Ex_tast.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KI4SoukUSZgq+G1Qq4RRtvvaep5xTfFmqKE3z16FCEfZ9qJCg2RaICcZTRTlIhtUWP8Y7rmGrOpR0uQPeawjfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu7tw2d21\\source\\repos\\Ex_tast\\Ex_tast\\Ex_tast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu7tw2d21\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
